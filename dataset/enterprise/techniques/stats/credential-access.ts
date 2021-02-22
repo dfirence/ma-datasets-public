@@ -1,4 +1,4 @@
-export const CREDENTIAL_ACCESS = [
+ [
   {
     "item": "T1003",
     "meta": "OS Credential Dumping",

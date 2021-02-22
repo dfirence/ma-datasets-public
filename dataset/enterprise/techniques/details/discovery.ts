@@ -1,4 +1,4 @@
-export const DISCOVERY_DETAILS = [
+ [
   {
     "id": "attack-pattern--322bad5a-1c49-4d23-ab79-76d641794afa",
     "platform": "windows",

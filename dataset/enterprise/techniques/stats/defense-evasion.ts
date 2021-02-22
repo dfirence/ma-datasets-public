@@ -1,4 +1,4 @@
-export const DEFENSE_EVASION = [
+ [
   {
     "item": "T1006",
     "meta": "Direct Volume Access",

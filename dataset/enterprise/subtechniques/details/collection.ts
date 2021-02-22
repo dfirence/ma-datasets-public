@@ -1,4 +1,4 @@
-export const COLLECTION_SUBTECHNIQUE_DETAILS = [
+ [
   {
     "id": "attack-pattern--09a60ea3-a8d1-4ae5-976e-5783248b72a4",
     "platform": "windows|macos|linux|network",

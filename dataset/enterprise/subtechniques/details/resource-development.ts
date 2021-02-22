@@ -1,4 +1,4 @@
-export const RESOURCE_DEVELOPMENT_SUBTECHNIQUE_DETAILS = [
+ [
   {
     "id": "attack-pattern--40f5caa0-4cb7-4117-89fc-d421bb493df3",
     "platform": "pre",

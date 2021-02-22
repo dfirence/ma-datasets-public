@@ -1,4 +1,4 @@
-export const RECONNAISSANCE = [
+ [
   {
     "item": "T1589",
     "meta": "Gather Victim Identity Information",

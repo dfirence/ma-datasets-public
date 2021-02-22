@@ -1,4 +1,4 @@
-export const LATERAL_MOVEMENT_DETAILS = [
+ [
   {
     "id": "attack-pattern--54a649ff-439a-41a4-9856-8d144a2551ba",
     "platform": "linux|macos|windows",

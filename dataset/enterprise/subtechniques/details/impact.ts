@@ -1,4 +1,4 @@
-export const IMPACT_SUBTECHNIQUE_DETAILS = [
+ [
   {
     "id": "attack-pattern--8c41090b-aa47-4331-986b-8c9a51a91103",
     "platform": "linux|macos|windows",

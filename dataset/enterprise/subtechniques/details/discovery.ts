@@ -1,4 +1,4 @@
-export const DISCOVERY_SUBTECHNIQUE_DETAILS = [
+ [
   {
     "id": "attack-pattern--a01bf75f-00b2-4568-a58f-565ff9bf202b",
     "platform": "linux|macos|windows",

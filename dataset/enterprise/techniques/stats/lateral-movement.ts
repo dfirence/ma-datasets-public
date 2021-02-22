@@ -1,4 +1,4 @@
-export const LATERAL_MOVEMENT = [
+ [
   {
     "item": "T1021",
     "meta": "Remote Services",

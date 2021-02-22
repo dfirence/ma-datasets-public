@@ -1,4 +1,4 @@
-export const DEFENSE_EVASION_DETAILS = [
+ [
   {
     "id": "attack-pattern--0c8ab3eb-df48-4b9c-ace7-beacaac81cc5",
     "platform": "windows",

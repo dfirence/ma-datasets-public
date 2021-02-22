@@ -1,4 +1,4 @@
-export const DEFENSE_EVASION_SUBTECHNIQUE_DETAILS = [
+ [
   {
     "id": "attack-pattern--5bfccc3f-2326-4112-86cc-c1ece9d8a2b5",
     "platform": "linux|macos|windows",

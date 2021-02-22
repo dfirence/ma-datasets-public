@@ -1,4 +1,4 @@
-export const EXECUTION_DETAILS = [
+ [
   {
     "id": "attack-pattern--01a5a209-b94c-450b-b7f9-946497d91055",
     "platform": "windows",

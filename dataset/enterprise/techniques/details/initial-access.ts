@@ -1,4 +1,4 @@
-export const INITIAL_ACCESS_DETAILS = [
+ [
   {
     "id": "attack-pattern--b17a1a56-e99c-403c-8948-561df0cffe81",
     "platform": "linux|macos|windows|aws|gcp|azure|saas|office-365|azure-ad",

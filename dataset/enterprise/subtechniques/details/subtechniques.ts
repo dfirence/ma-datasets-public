@@ -1,4 +1,4 @@
-export const ENTERPRISE_SUBTECHNIQUES_DETAILS = [
+ [
   {
     "id": "attack-pattern--f7c0689c-4dbd-489b-81be-7cb7c7079ade",
     "platform": "linux|macos|windows",

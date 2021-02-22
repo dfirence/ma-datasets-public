@@ -1,4 +1,4 @@
-export const STATS_TECHNIQUES = [
+ [
   {
     "item": "T1001",
     "meta": "Data Obfuscation",

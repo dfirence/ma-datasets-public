@@ -1,4 +1,4 @@
-export const EXFILTRATION_DETAILS = [
+ [
   {
     "id": "attack-pattern--51ea26b1-ff1e-4faa-b1a0-1114cd298c87",
     "platform": "linux|macos|windows",

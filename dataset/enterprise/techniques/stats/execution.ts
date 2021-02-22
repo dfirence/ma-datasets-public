@@ -1,4 +1,4 @@
-export const EXECUTION = [
+ [
   {
     "item": "T1047",
     "meta": "Windows Management Instrumentation",

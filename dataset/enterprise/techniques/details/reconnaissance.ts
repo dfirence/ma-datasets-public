@@ -1,4 +1,4 @@
-export const RECONNAISSANCE_DETAILS = [
+ [
   {
     "id": "attack-pattern--5282dd9a-d26d-4e16-88b7-7c0f4553daf4",
     "platform": "pre",

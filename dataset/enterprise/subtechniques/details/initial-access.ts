@@ -1,4 +1,4 @@
-export const INITIAL_ACCESS_SUBTECHNIQUE_DETAILS = [
+ [
   {
     "id": "attack-pattern--6151cbea-819b-455a-9fa6-99a1cc58797d",
     "platform": "linux|macos|windows|aws|gcp|azure|office-365|azure-ad|saas",

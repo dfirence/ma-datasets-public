@@ -1,4 +1,4 @@
-export const COMMAND_AND_CONTROL = [
+ [
   {
     "item": "T1001",
     "meta": "Data Obfuscation",

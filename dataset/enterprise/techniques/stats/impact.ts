@@ -1,4 +1,4 @@
-export const IMPACT = [
+ [
   {
     "item": "T1485",
     "meta": "Data Destruction",

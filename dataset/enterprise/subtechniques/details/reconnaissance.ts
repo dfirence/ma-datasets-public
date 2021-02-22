@@ -1,4 +1,4 @@
-export const RECONNAISSANCE_SUBTECHNIQUE_DETAILS = [
+ [
   {
     "id": "attack-pattern--bc76d0a4-db11-4551-9ac4-01a469cfb161",
     "platform": "pre",

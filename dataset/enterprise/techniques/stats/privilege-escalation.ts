@@ -1,4 +1,4 @@
-export const PRIVILEGE_ESCALATION = [
+ [
   {
     "item": "T1037",
     "meta": "Boot or Logon Initialization Scripts",

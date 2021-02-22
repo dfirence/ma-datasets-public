@@ -1,4 +1,4 @@
-export const PERSISTENCE = [
+ [
   {
     "item": "T1037",
     "meta": "Boot or Logon Initialization Scripts",

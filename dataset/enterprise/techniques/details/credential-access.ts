@@ -1,4 +1,4 @@
-export const CREDENTIAL_ACCESS_DETAILS = [
+ [
   {
     "id": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
     "platform": "windows|linux|macos",

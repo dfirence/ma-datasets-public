@@ -1,4 +1,4 @@
-export const COLLECTION = [
+ [
   {
     "item": "T1005",
     "meta": "Data from Local System",

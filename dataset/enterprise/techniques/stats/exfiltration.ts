@@ -1,4 +1,4 @@
-export const EXFILTRATION = [
+ [
   {
     "item": "T1011",
     "meta": "Exfiltration Over Other Network Medium",

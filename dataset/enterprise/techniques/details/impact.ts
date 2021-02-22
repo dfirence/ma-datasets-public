@@ -1,4 +1,4 @@
-export const IMPACT_DETAILS = [
+ [
   {
     "id": "attack-pattern--d45a3d09-b3cf-48f4-9f0f-f521ee5cb05c",
     "platform": "linux|macos|windows",

@@ -1,4 +1,4 @@
-export const DISCOVERY = [
+ [
   {
     "item": "T1007",
     "meta": "System Service Discovery",

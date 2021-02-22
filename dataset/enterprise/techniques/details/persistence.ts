@@ -1,4 +1,4 @@
-export const PERSISTENCE_DETAILS = [
+ [
   {
     "id": "attack-pattern--03259939-0b57-482f-8eb5-87c0e0d54334",
     "platform": "macos|windows|linux",

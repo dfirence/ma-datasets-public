@@ -1,4 +1,4 @@
-export const CREDENTIAL_ACCESS_SUBTECHNIQUE_DETAILS = [
+ [
   {
     "id": "attack-pattern--65f2d882-3f41-4d48-8a06-29af77ec9f90",
     "platform": "windows",

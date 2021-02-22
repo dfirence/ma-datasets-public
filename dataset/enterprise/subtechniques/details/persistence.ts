@@ -1,4 +1,4 @@
-export const PERSISTENCE_SUBTECHNIQUE_DETAILS = [
+ [
   {
     "id": "attack-pattern--eb125d40-0b2d-41ac-a71a-3229241c2cd3",
     "platform": "windows",

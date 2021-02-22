@@ -1,4 +1,4 @@
-export const COLLECTION_DETAILS = [
+ [
   {
     "id": "attack-pattern--3c4a2599-71ee-4405-ba1e-0e28414b4bc5",
     "platform": "linux|macos|windows",

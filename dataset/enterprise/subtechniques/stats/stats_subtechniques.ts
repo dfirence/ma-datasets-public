@@ -1,4 +1,4 @@
-export const STATS_SUBTECHNIQUES = [
+ [
   {
     "item": "T1001.001",
     "meta": "Junk Data",

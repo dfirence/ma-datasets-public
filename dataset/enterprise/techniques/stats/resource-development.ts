@@ -1,4 +1,4 @@
-export const RESOURCE_DEVELOPMENT = [
+ [
   {
     "item": "T1583",
     "meta": "Acquire Infrastructure",
